@@ -2,6 +2,10 @@ Mi madre Ana
 es muy pesada
 jaja
 
+
 Nuevo cambio 
 agrego en master
 No me quedo con ninguno de los cambios
+Nuevo cambio AGREGO desde la rama BIO
+Acá escribo desde la branch cuando ya escribieron desde master
+dEJO TODO y agrego linea je
